@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/authors/</loc>
+    <loc>https://matcond-tandar.github.io/authors/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/categories/</loc>
+    <loc>https://matcond-tandar.github.io/categories/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/</loc>
+    <loc>https://matcond-tandar.github.io/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/recursos/</loc>
+    <loc>https://matcond-tandar.github.io/recursos/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/integrantes/</loc>
+    <loc>https://matcond-tandar.github.io/integrantes/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/investigacion/</loc>
+    <loc>https://matcond-tandar.github.io/investigacion/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/publicaciones/</loc>
+    <loc>https://matcond-tandar.github.io/publicaciones/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/publication_types/</loc>
+    <loc>https://matcond-tandar.github.io/publication_types/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/tags/</loc>
+    <loc>https://matcond-tandar.github.io/tags/</loc>
   </url><url>
-    <loc>http://www2.tandar.cnea.gov.ar/grupos/solidos/temas/</loc>
+    <loc>https://matcond-tandar.github.io/temas/</loc>
   </url>
 </urlset>

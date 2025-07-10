@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | Departamento de física de la materia condensada</title>
-    <link>http://www2.tandar.cnea.gov.ar/grupos/solidos/tags/</link>
-      <atom:link href="http://www2.tandar.cnea.gov.ar/grupos/solidos/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://matcond-tandar.github.io/tags/</link>
+      <atom:link href="https://matcond-tandar.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>http://www2.tandar.cnea.gov.ar/grupos/solidos/images/logo_hu2681c562675ec16bdb3744d9a394a951_269627_300x300_fit_lanczos_3.png</url>
+      <url>https://matcond-tandar.github.io/images/logo_hu2681c562675ec16bdb3744d9a394a951_269627_300x300_fit_lanczos_3.png</url>
       <title>Tags</title>
-      <link>http://www2.tandar.cnea.gov.ar/grupos/solidos/tags/</link>
+      <link>https://matcond-tandar.github.io/tags/</link>
     </image>
     
   </channel>
